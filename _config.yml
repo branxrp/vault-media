@@ -1,0 +1,26 @@
+title: Mr Horn
+description: Discover the unique combination of law and technology through my eyes. As a BCom Law student at UNISA and a self-taught programmer, I share my passion for these fields on my personal website. Follow my academic and professional journey and take a look at my portfolio of web development and graphic design projects. Join me in exploring the limitless possibilities of merging legal expertise with technical skills.
+author: Brandon Horn
+avatar: /logo.png
+email: brandonhorn127@@gmail.com
+
+plugins:
+  - jekyll-theme-hamilton
+
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+twitter:
+  username: earfquake_bhc
+  card: summary
+logo: logo.png
+social:
+  name: Brandon Horn
+  links:
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://www.linkedin.com/in/sir-horn/
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
